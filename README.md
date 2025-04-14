@@ -4,6 +4,6 @@ extendiendo la clase AbstractUser para incluir campos adicionales como tipo de s
 teléfono y cédula de identidad.
 
 **Características**
-Modelo de usuario personalizado con campos adicionales
-Configuración completa para sustituir el modelo de usuario predeterminado de Django
-Ejemplo de implementación siguiendo las mejores prácticas
+Modelo de usuario personalizado con campos adicionales.
+Configuración completa para sustituir el modelo de usuario predeterminado de Django.
+Ejemplo de implementación siguiendo las mejores prácticas.
